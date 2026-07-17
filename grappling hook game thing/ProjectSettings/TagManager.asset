@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ghost
+  - GhostGoo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ghost
+  - Glow
+  - Camera
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GhostGoo
+    uniqueID: 609763059
+    locked: 0
+  - name: Player
+    uniqueID: 511133529
+    locked: 0
+  - name: Indicator
+    uniqueID: 573798605
+    locked: 0
+  - name: Ghost
+    uniqueID: 3451539209
+    locked: 0
+  - name: PowerUp
+    uniqueID: 3902099341
+    locked: 0
